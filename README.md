@@ -1,2 +1,3 @@
-# dyreborg
-Dyreborg Kro
+# Dyreborg Kro
+
+Web site for Dyreborg Kro.
